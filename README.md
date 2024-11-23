@@ -3,7 +3,7 @@ Projetinho Pessoal onde eu quero dar vida a uma tabela que usei há muitos anos,
 
 ✅ A tabela consiste em um cadastro simples de materia prima.
 
-![alt text](<frontend/src/assets/Read.me/Captura de tela 2024-04-06 140146.png>)
+![alt text](<assets/Read.me/Captura de tela 2024-04-06 140146.png>)
 
 ✅ No momento do cadastro é possível colocar a metragem da largura do tecido e o seu valor, o comprimento seria necessário caso houvesse o controle de estoque. 
 
